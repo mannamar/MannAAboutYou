@@ -1,3 +1,3 @@
 # MannAAboutYou
 
-A simple website coded via HTML/CSS with some info myself
+A simple website coded via HTML/CSS with some info about me
